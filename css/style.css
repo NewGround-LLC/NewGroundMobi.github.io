@@ -20,12 +20,21 @@ margin:10px;
 }
 .navbar-default .navbar-nav>li>a:hover{
 	color: #0077be;
+    line-height: 72px;
+    height: 72px;
 }
-header{
-	background: url(../images/header_bg.jpg);
-	background-size: cover;
-	background-repeat: no-repeat;
+.navbar-brand {
+    line-height: 72px;
+    height: 72px;
+    padding:15px;
 }
+
+.navbar-toggle {
+    line-height: 42px;
+    height: 42px;
+    margin:15px;
+}
+
 .section_overlay{
 	
 }
@@ -35,7 +44,7 @@ header{
 }
 .home_text h2{
 	color: #010101;
-	font-size: 40px;
+	font-size: 30px;
 	text-transform: uppercase;
 	letter-spacing: 13px;
 	
