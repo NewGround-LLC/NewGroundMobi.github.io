@@ -511,29 +511,15 @@ text-transform: uppercase;
 font-size: 16px;	
 }
 ul.icon_list{
-margin: 0;
-padding: 0;
-list-style: none;
-text-align: center;
-margin-top: 20px;
-}
+    padding: 0;
+    margin-top: 20px; }
 ul.icon_list li{
-display: inline;
-padding-left: 3px;
-padding-right: 3px;
-}
+    display: inline;
+    padding: 0 3px; }
 ul.icon_list li a{
-display: inline-block;
-color: #636363;
-border: 1px solid #636363;
-border-radius: 50%;
-text-align: center;
-width: 30px;
-height: 30px;
-text-align: center;
-line-height: 28px;
-transition: all 1s;
-}
+    display: inline-block;
+    border: none;
+    transition: all 1s; }
 ul.icon_list li a:hover{
 	color: #0077be;
 	border-color:#0077be; 
