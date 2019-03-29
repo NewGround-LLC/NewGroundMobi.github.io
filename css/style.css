@@ -519,6 +519,7 @@ ul.icon_list li{
 ul.icon_list li a{
     display: inline-block;
     border: none;
+    color: #636363;
     transition: all 1s; }
 ul.icon_list li a:hover{
 	color: #0077be;
