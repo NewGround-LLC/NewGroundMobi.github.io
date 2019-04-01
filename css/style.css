@@ -13,15 +13,15 @@ h1, h2, h3, h4, h5, h6{
 }
 
 /*Header*/
+
 .navbar-default .navbar-nav>li>a {
-color: #777;
-text-transform: uppercase;
-margin:10px;
+    color: #777;
+    text-transform: uppercase;
+    line-height: 42px;
 }
 .navbar-default .navbar-nav>li>a:hover{
 	color: #0077be;
-    line-height: 72px;
-    height: 72px;
+    line-height: 42px;
 }
 .navbar-brand {
     line-height: 72px;
@@ -35,9 +35,7 @@ margin:10px;
     margin:15px;
 }
 
-.section_overlay{
-	
-}
+
 .home_text{
 	padding-top: 210px;
 	padding-bottom: 100px;
